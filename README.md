@@ -1,4 +1,4 @@
-# I'm Musa Güney from Turkey
+# I'm Musa Güney 
 ## Frontend & Flutter Developer|Crafting Web and Mobile Experiences
 
 - 🌱 I’m currently learning **React & JavaScript**
